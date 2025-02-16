@@ -1,0 +1,10 @@
+---
+---
+@import "minima";
+
+// Override undefined variable error
+$grey-color: #6c757d;
+
+body {
+    color: $grey-color;
+}
